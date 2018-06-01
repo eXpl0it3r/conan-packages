@@ -9,7 +9,7 @@ class PhysfsConan(ConanFile):
     description = "PhysicsFS is a library to provide abstract access to various archives."
     settings = "os", "compiler", "build_type", "arch"
     options = {"shared": [True, False]}
-    default_options = "shared=False"
+    default_options = "shared=True"
     generators = "cmake"
 
     def source(self):

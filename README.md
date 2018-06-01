@@ -6,6 +6,8 @@ If you have issues with the packaged library, please refer to the library's issu
 
 ## List of Conan Packges
 
+JFrog Bintray repository: https://bintray.com/expl0it3r/Conan
+
 * [physfs](https://icculus.org/physfs/) - PhysicsFS is a library to provide abstract access to various archives.
 
 ## What is Conan?
